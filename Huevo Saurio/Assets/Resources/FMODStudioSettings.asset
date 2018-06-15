@@ -15,7 +15,7 @@ MonoBehaviour:
   HasPlatforms: 0
   sourceProjectPath: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/HuevoSaurioTest.fspro
   SourceProjectPathUnformatted: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/HuevoSaurioTest.fspro
-  SourceBankPathUnformatted: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/Build/Desktop
+  SourceBankPathUnformatted: FMOD/HuevoSaurioTest/Build/Desktop
   AutomaticEventLoading: 1
   AutomaticSampleLoading: 0
   ImportType: 0
@@ -57,5 +57,5 @@ MonoBehaviour:
   - Platform: 2
     Value: 32
   Plugins: []
-  MasterBank: 
+  MasterBank: Master Bank
   Banks: []
