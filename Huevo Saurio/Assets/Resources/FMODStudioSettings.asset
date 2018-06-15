@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: /Users/itzelgonzalez/Documents/Juan/HuevoSaurioTest/HuevoSaurioTest.fspro
-  SourceProjectPathUnformatted: /Users/itzelgonzalez/Documents/Juan/HuevoSaurioTest/HuevoSaurioTest.fspro
-  SourceBankPathUnformatted: /Users/itzelgonzalez/Documents/Juan/HuevoSaurioTest/Build
+  sourceProjectPath: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/HuevoSaurioTest.fspro
+  SourceProjectPathUnformatted: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/HuevoSaurioTest.fspro
+  SourceBankPathUnformatted: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/Build
   AutomaticEventLoading: 1
   AutomaticSampleLoading: 0
   ImportType: 0
