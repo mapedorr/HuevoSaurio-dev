@@ -15,7 +15,7 @@ MonoBehaviour:
   HasPlatforms: 0
   sourceProjectPath: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/HuevoSaurioTest.fspro
   SourceProjectPathUnformatted: /Users/itzelgonzalez/Documents/GitHub/HuevoSaurio-dev/FMOD/HuevoSaurioTest/HuevoSaurioTest.fspro
-  SourceBankPathUnformatted: FMOD/HuevoSaurioTest/Build/Desktop
+  SourceBankPathUnformatted: FMOD/HuevoSaurioTest/zBuild/Desktop
   AutomaticEventLoading: 1
   AutomaticSampleLoading: 0
   ImportType: 0
