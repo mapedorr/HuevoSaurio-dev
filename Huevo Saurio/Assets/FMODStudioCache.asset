@@ -13,12 +13,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EditorBanks:
   - {fileID: 114005273445547052}
-  - {fileID: 114598689801721120}
+  - {fileID: 114246744112210042}
   EditorEvents:
   - {fileID: 114208682499428494}
-  MasterBankRef: {fileID: 114598689801721120}
+  MasterBankRef: {fileID: 114246744112210042}
   StringsBankRef: {fileID: 114005273445547052}
-  stringsBankWriteTime: 636646193360000000
+  stringsBankWriteTime: 636646202649640944
   cacheVersion: 2
 --- !u!114 &114005273445547052
 MonoBehaviour:
@@ -31,8 +31,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: FMOD/HuevoSaurioTest/zBuild/Desktop/Master Bank.strings.bank
-  lastModified: 636646193360000000
+  Path: FMOD\HuevoSaurioTest\zBuild\Desktop\Master Bank.strings.bank
+  lastModified: 636646202649640944
   LoadResult: 0
   FileSizes:
   - Name: 
@@ -93,7 +93,7 @@ MonoBehaviour:
   Path: event:/Forest
   guid: ea467cd50cb24048a09b4def576cfe17
   Banks:
-  - {fileID: 114598689801721120}
+  - {fileID: 114246744112210042}
   IsStream: 1
   Is3D: 0
   IsOneShot: 1
@@ -101,6 +101,25 @@ MonoBehaviour:
   MinDistance: 0
   MaxDistance: 0
   Length: 120400
+--- !u!114 &114246744112210042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\proyectos\juegos\Unity\HuevoSaurio-dev\Huevo Saurio\FMOD\HuevoSaurioTest\zBuild\Desktop\Master
+    Bank.bank
+  lastModified: 636646202649640944
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 1012928
+  Exists: 1
 --- !u!114 &114290861148306818
 MonoBehaviour:
   m_ObjectHideFlags: 0
